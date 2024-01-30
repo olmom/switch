@@ -1,3 +1,5 @@
+<!--[![](https://img.shields.io/badge/Publication-10.12688/f1000research.135533.1-yellow.svg)](https://f1000research.com/articles/12-1077/v1)-->
+
 # switch
 This repo contains material on network switches and biological oscillations
 
