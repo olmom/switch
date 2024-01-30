@@ -1,7 +1,7 @@
 # switch
 This repo contains material on network switches and biological oscillations
 
-This repository contains the reproducible code for the generation of data, analysis and figures in the manuscript "Mechanisms generating network switches and their role in circadian clocks" <!--([preprint](https://www.biorxiv.org/content/10.1101/2023.02.12.528191v1)).-->
+This repository contains the reproducible code for the generation of data, analysis and figures in the manuscript "Mechanisms generating network switches and their role in circadian clocks". <!--([preprint](https://www.biorxiv.org/content/10.1101/2023.02.12.528191v1)).-->
 
 To execute this code:
 
